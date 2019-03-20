@@ -9,7 +9,7 @@
 .carousel-caption{
     z-index: 10;
     padding-bottom:60px;
-
+    background-position: center;
 }
 
 .carousel-inner .item{
